@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/GoIt_courses/ToDoList/static/css/main.7520e067.chunk.css",
+    "main.js": "/GoIt_courses/ToDoList/static/js/main.ea67969f.chunk.js",
+    "main.js.map": "/GoIt_courses/ToDoList/static/js/main.ea67969f.chunk.js.map",
+    "runtime-main.js": "/GoIt_courses/ToDoList/static/js/runtime-main.a212dde7.js",
+    "runtime-main.js.map": "/GoIt_courses/ToDoList/static/js/runtime-main.a212dde7.js.map",
+    "static/css/2.764ccc25.chunk.css": "/GoIt_courses/ToDoList/static/css/2.764ccc25.chunk.css",
+    "static/js/2.8f48c15d.chunk.js": "/GoIt_courses/ToDoList/static/js/2.8f48c15d.chunk.js",
+    "static/js/2.8f48c15d.chunk.js.map": "/GoIt_courses/ToDoList/static/js/2.8f48c15d.chunk.js.map",
+    "index.html": "/GoIt_courses/ToDoList/index.html",
+    "precache-manifest.1b1e849d16bc49193186481eef1a71fb.js": "/GoIt_courses/ToDoList/precache-manifest.1b1e849d16bc49193186481eef1a71fb.js",
+    "service-worker.js": "/GoIt_courses/ToDoList/service-worker.js",
+    "static/css/2.764ccc25.chunk.css.map": "/GoIt_courses/ToDoList/static/css/2.764ccc25.chunk.css.map",
+    "static/css/main.7520e067.chunk.css.map": "/GoIt_courses/ToDoList/static/css/main.7520e067.chunk.css.map",
+    "static/js/2.8f48c15d.chunk.js.LICENSE.txt": "/GoIt_courses/ToDoList/static/js/2.8f48c15d.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.a212dde7.js",
+    "static/css/2.764ccc25.chunk.css",
+    "static/js/2.8f48c15d.chunk.js",
+    "static/css/main.7520e067.chunk.css",
+    "static/js/main.ea67969f.chunk.js"
+  ]
+}
